@@ -1,0 +1,29 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Frame	frame.h	/^} Frame;$/;"	t	typeref:struct:__anon1
+analyze	analyze.s	/^analyze:$/;"	l
+compare	compare.s	/^compare:$/;"	l
+dataset	atest.c	/^Frame dataset[] = $/;"	v
+dataset	lab6.c	/^Frame dataset[] = $/;"	v
+energy	frame.h	/^	long energy;$/;"	m	struct:__anon1
+frame_id	frame.h	/^	long frame_id;$/;"	m	struct:__anon1
+increment_crossing	analyze.s	/^increment_crossing:$/;"	l
+loop_end	analyze.s	/^loop_end:	$/;"	l
+loop_leave	analyze.s	/^loop_leave:$/;"	l
+loop_leave	search.s	/^loop_leave:$/;"	l
+loop_start	analyze.s	/^loop_start:$/;"	l
+loop_start	search.s	/^loop_start:$/;"	l
+main	atest.c	/^int main()$/;"	f
+main	lab6.c	/^int main()$/;"	f
+printDiv	compare.s	/^printDiv:$/;"	l
+print_result	search.s	/^print_result:$/;"	l
+print_sar	compare.s	/^print_sar:$/;"	l
+printe_divide	compare.s	/^printe_divide:$/;"	l
+printe_divide_result	compare.s	/^printe_divide_result:$/;"	l
+samples	frame.h	/^	short samples[64];$/;"	m	struct:__anon1
+search	search.s	/^search:$/;"	l
+zc	frame.h	/^	short zc;$/;"	m	struct:__anon1
